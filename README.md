@@ -11,11 +11,12 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :woman: Ana Pasadas
 - :woman: Elena Martínez
+- :woman: María José Rodríguez 
 
 Proyecto (código): 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [x] Fiction 
 - [ ] Reality/tribus urbanas  
 - [ ] Comic
 
@@ -23,23 +24,26 @@ Tipo/Género:
 
 ## Resumen
 
+Uri está de Erasmus en Genovia, un país con una antigua tradición monárquica cuya reina, le encarga la misión de viajar en el tiempo para evitar la propagación de una revolución. 
 
 ### Personaje
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Uri 
 
 
 ### Historia
 
+Uri tiene 22 años, es originario de Vetusta, un pequeño pueblo del norte de España y estudia Relaciones Internacionales.
 
 ### Contexto
 
+Uri tiene un pasado en el que sufrió acoso y decide irse de Erasmus para empezar una nueva etapa conociéndose. 
 
 ### Conflicto 
 
-
+La reina de Genovia le pide viajar en el tiempo para salvar la monarquía.
 
 ### Productos
 
