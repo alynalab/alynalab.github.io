@@ -30,7 +30,7 @@ Uri está de Erasmus en Genovia, un país con una antigua tradición monárquica
 
 ![](img-nobody.png)
 
-Nombre: Uri 
+Nombre: Uri Morla
 
 
 ### Historia
