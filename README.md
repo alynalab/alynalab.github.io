@@ -26,21 +26,19 @@ Tipo/Género:
 
 Uri está de Erasmus en Genovia, un país con una antigua tradición monárquica cuya reina, le encarga la misión de viajar en el tiempo para evitar la propagación de una revolución. 
 
-### Personajes
+## Personajes
+
+### Nombre: Uri Morla
 
 ![](https://github.com/alynalab/salvarGenovia/blob/main/image.png)
 
-Nombre: Uri Morla
-
+### Nombre: Eliora de Genovia
 
 ![](https://github.com/alynalab/salvarGenovia/blob/main/WhatsApp%20Image%202024-03-19%20at%2010.08.58%20AM.jpeg)
 
-Nombre: Eliora de Genovia
+### Nombre: Dante Noir
 
-
-![](
-
-Nombre: Dante Noir
+![](https://github.com/alynalab/salvarGenovia/blob/main/WhatsApp%20Image%202024-03-19%20at%2010.09.06%20AM.jpeg)
 
 ### Historia
 
