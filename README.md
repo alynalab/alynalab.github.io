@@ -1,7 +1,7 @@
 
-# Proyecto Storytelling (template): 
+# SalvarGenovia 
 ### my_storytelling
-Plantilla para crear el storytelling (CDNCAV-b)
+El tiempo y el poder son un juego peligroso
 
 Autores:  
 <!---
@@ -26,12 +26,19 @@ Tipo/Género:
 
 Uri está de Erasmus en Genovia, un país con una antigua tradición monárquica cuya reina, le encarga la misión de viajar en el tiempo para evitar la propagación de una revolución. 
 
-### Personaje
+### Personajes
 
 ![](https://github.com/alynalab/salvarGenovia/blob/main/image.png)
 
 Nombre: Uri Morla
 
+
+
+Nombre: Eliora de Genovia
+
+
+
+Nombre: Dante Noir
 
 ### Historia
 
@@ -39,11 +46,11 @@ Uri tiene 22 años, es originario de Vetusta, un pequeño pueblo del norte de Es
 
 ### Contexto
 
-Uri tiene un pasado en el que sufrió acoso y decide irse de Erasmus para empezar una nueva etapa conociéndose. 
+Uri tiene un pasado en el que sufrió acoso y decide irse de Erasmus para empezar una nueva etapa en la que se conocerá a sí mismo y cambiará el destino de un país.
 
 ### Conflicto 
 
-La reina de Genovia le pide viajar en el tiempo para salvar la monarquía.
+La reina de Genovia, Eliora, le pide viajar en el tiempo para salvar la monarquía del país de Genovia de los planez de venganza Dante Noir. 
 
 ### Productos
 
