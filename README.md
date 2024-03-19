@@ -33,10 +33,12 @@ Uri está de Erasmus en Genovia, un país con una antigua tradición monárquica
 Nombre: Uri Morla
 
 
+![](https://github.com/alynalab/salvarGenovia/blob/main/WhatsApp%20Image%202024-03-19%20at%2010.08.58%20AM.jpeg)
 
 Nombre: Eliora de Genovia
 
 
+![](
 
 Nombre: Dante Noir
 
