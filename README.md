@@ -28,7 +28,7 @@ Uri está de Erasmus en Genovia, un país con una antigua tradición monárquica
 
 ### Personaje
 
-![](img-nobody.png)
+![]([img-nobody.png](https://github.com/alynalab/salvarGenovia/blob/main/image.png))
 
 Nombre: Uri Morla
 
