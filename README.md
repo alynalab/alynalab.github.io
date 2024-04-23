@@ -57,10 +57,10 @@ La reina de Genovia, Eliora, le pide viajar en el tiempo para salvar la monarqu√
 - Cuestionario de personalidad: https://h5p.org/node/1479454?feed_me=nps
 
 
-- Banner/Teaser: (https://cloud.protopie.io/p/e4d99cb5d7d647fc0813d5aa?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1) 
+- Banner/Teaser: https://cloud.protopie.io/p/e4d99cb5d7d647fc0813d5aa?ui=true&scaleToFit=true&enableHotspotHints=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&bgImage=undefined&playSpeed=1
 
 
-- Storytelling: (https://arcweave.com/app/project/kM6NVzv6m3/play) 
+- Storytelling: https://arcweave.com/app/project/kM6NVzv6m3/play
 
 
 
