@@ -94,7 +94,7 @@ body {
 }
 
 .icons button {
-  color: #0065C4;
+  color: #154360;
   width: fit-content;
   height: fit-content;
   border: none;
@@ -121,13 +121,13 @@ button {
 }
 
 .button .message {
-  color: #0065C4;
+  color: #154360;
   background: #ededed;
-  border: 2px solid #0065C4;
+  border: 2px solid #154360;
 }
 
 .button .connect {
-  background-color: #0065C4;
+  background-color: #154360;
   color: #ededed;
   border: none;
 }
